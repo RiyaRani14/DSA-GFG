@@ -1,7 +1,7 @@
 public class FindKthRotation {
    
     public int findKRotation(int arr[]) {
-        // Code here
+        
         int n = arr.length;
        int start = 0 , end = n-1;
         //  if subarray already sorted
